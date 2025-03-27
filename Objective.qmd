@@ -1,0 +1,24 @@
+---
+title: "Objective of the Research"
+format: pdf
+editor: visual
+---
+
+I am happy to offer you an internship position as a research assistant with the 
+## Social, Behavioral, and Economic COVID Coordinating Center (SBE CCC)
+As a research assistant intern your duties will include:
+
+• Independently conduct literature reviews
+
+• Independently find and manipulate data sources and document where those data were found.
+
+• Use Zotero or Endnote to save research articles, take shared notes on those articles, and create a
+bibliography embedded in Google Docs and Microsoft Word.
+
+• Use programming languages and statistical software such as R or Python for data cleaning and
+statistical analysis
+
+• Professionally communicate with team members (faculty, staff, and students), community
+stakeholders, and large organizations via email, website contact form, slack, phone.
+
+• Synthesize findings in a scientific report.
